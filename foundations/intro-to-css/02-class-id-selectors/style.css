@@ -8,3 +8,15 @@ p
     color: rgb(6, 77, 185);
     font-size: 36px;
 }
+
+.odd-class
+{
+    font-size: 24px;
+}
+
+#two-id
+{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
